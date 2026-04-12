@@ -6,7 +6,7 @@
 
 *Quietly building systems that speak loudly.*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Data+Science+Student+📊;AI+%26+Machine+Learning+Engineer+🤖;Structured+Systems+Builder+🏗️;Python+%7C+Java+%7C+Databases+💾;Precision+%2B+Growth+%3D+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Data+Science+Student+📊;AI+%26+Machine+Learning+Engineer+🤖;Structured+Systems+Builder+🏗️;Python+%7C+Java+%7C+Databases+💾;Precision+%2B+Growth+%3D+✨)](https://readme-typing-svg.herokuapp.com)
 
 </div>
 
