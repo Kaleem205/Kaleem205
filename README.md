@@ -108,7 +108,7 @@
 
 ---
 
-<!-- GITHUB STATS -->
+<!-- GITHUB STATS 
 <div align="center">
 
 ## ⟨ GitHub Stats ⟩
@@ -121,13 +121,14 @@
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaleem&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=8892b0&dates=8892b0&border_radius=10"/>
 
 <br/><br/>
+-->
 
-<!-- ACTIVITY GRAPH -->
+
+<!-- ACTIVITY GRAPH 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaleem&theme=react-dark&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true"/>
 
 </div>
-
----
+-->
 
 <!-- QUOTE / PHILOSOPHY -->
 <div align="center">
